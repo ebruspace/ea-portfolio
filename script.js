@@ -68,3 +68,5 @@ portfolioMenuItems.forEach((item) => {
     });
   });
 });
+
+console.log("I am the change");
